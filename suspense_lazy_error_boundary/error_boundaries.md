@@ -67,3 +67,5 @@ Image zoom component
 Error boundaries are used to:
 
 Prevent UI crashes due to network failures
+
+used in modern web applications
